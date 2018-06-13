@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hurlyburly/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hurlyburly/Bamazon/issues"
+  },
+  "homepage": "https://github.com/hurlyburly/Bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^6.0.0",
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
